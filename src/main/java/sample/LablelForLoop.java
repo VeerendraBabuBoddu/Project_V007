@@ -12,6 +12,8 @@ public class LablelForLoop {
         }
         }
 
+        System.out.println("just added");
+
     }
 
 }
